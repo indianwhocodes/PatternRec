@@ -21,5 +21,4 @@ Torch library for Lua will be used to develop my source code. A later extension 
 ### Resources
 
 - [Presentation on Design](https://www.youtube.com/watch?v=HK7_A05vqwQ)
-- [Presentation on Implementation](https://www.youtube.com/watch?v=9c7-afTKjBQ)
  
